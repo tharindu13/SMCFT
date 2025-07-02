@@ -2,7 +2,7 @@ echo -off
 
 cls
 
-echo "Model: iMac17,1, 4GB VRAM"
+echo "Model: iMac17,1, 2GB VRAM"
 echo "Board: 820-00292"
 echo "Flashing SMC with Mac-B809C3757DA9BB8D v2.34f3 firmware..."
 
