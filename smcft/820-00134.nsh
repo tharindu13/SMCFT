@@ -3,7 +3,7 @@ echo -off
 cls
 
 echo "Model: iMac17,1, 2GB VRAM"
-echo "Board: 820-00292"
+echo "Board: 820-00134"
 echo "Flashing SMC with Mac-B809C3757DA9BB8D v2.34f3 firmware..."
 
 smcutil.efi -force -norestart -LoadUpdate payloads\Mac-B809C3757DA9BB8D\flasher_update.smc
